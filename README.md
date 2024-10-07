@@ -22,3 +22,10 @@ This project aims to provide insights into tech trends and benefit realization t
 
 4. **Publishing Reports**:
    - To publish your report to Power BI Service, click on the **Publish** button in Power BI Desktop and select your workspace.
+
+## Reference List
+
+1. Microsoft Power BI Documentation: [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
+2. eFundi Project Resources: Accessed under Project 5 Resources folder.
+3. GitHub Repository for Version Control: [GitHub](https://github.com/)
+4. DAX Guide for Calculated Columns and Measures: [DAX Guide](https://dax.guide/)
